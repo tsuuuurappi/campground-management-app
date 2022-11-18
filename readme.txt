@@ -22,3 +22,15 @@ GZtaymg8njb6luxc
 
 # mongodb ip tmp
 210.138.159.180/32
+↓
+0.0.0.0
+
+# heroku login command
+heroku login
+
+# git command
+git init
+git add --all
+git commit -m "comment"
+git push heroku master
+git status
